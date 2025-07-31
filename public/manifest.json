@@ -1,0 +1,21 @@
+{
+  "short_name": "WeatherWatchr",
+  "name": "WeatherWatcher – PWA pro sledování počasí",
+  "icons": [
+    {
+      "src": "./icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1E1E2A",
+  "theme_color": "#1E1E2A",
+  "description": "PWA aplikace pro sledování aktuálního a předpovězeného počasí s nastavitelnými upozorněními."
+}
